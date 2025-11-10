@@ -4,8 +4,8 @@
 
 ## 📊 Complete Methodology & Results Analysis
 
-> **Author:** [Your Name]  
-> **Institution:** [Your University]  
+> **Author:** []  
+> **Institution:** []  
 > **Department:** Structural Engineering / Building Engineering & Construction Management  
 > **Date:** November 2025  
 > **Dataset:** 682 T-joint experimental specimens
